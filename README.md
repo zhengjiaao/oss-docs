@@ -92,23 +92,23 @@ oss.exe server D:\data
 
 ![oss-1.png](imgs/oss-1.png)
 
-![oss-2](imgs\oss-2.png)
+![oss-2](imgs/oss-2.png)
 
-![oss-3](\imgs\oss-3.png)
+![oss-3](imgs/oss-3.png)
 
-![oss-4](\imgs\oss-4.png)
+![oss-4](imgs/oss-4.png)
 
-![oss-5](\imgs\oss-5.png)
+![oss-5](imgs/oss-5.png)
 
-![oss-6](\imgs\oss-6.png)
+![oss-6](imgs/oss-6.png)
 
-![oss-7](\imgs\oss-7.png)
+![oss-7](imgs/oss-7.png)
 
-![oss-8](\imgs\oss-8.png)
+![oss-8](imgs/oss-8.png)
 
-![oss-9](\imgs\oss-9.png)
+![oss-9](imgs/oss-9.png)
 
-![oss-10](\imgs\oss-10.png)
+![oss-10](imgs/oss-10.png)
 
 
 
