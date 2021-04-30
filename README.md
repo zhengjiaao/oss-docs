@@ -90,7 +90,7 @@ oss.exe server D:\data
 
 ### 效果图展示图
 
-![oss-1.png](\imgs\oss-1.png)
+![oss-1.png](imgs\oss-1.png)
 
 ![oss-2](\imgs\oss-2.png)
 
