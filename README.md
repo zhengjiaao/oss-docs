@@ -92,7 +92,7 @@ oss.exe server D:\data
 
 ![oss-1.png](imgs/oss-1.png)
 
-![oss-2](\imgs\oss-2.png)
+![oss-2](imgs\oss-2.png)
 
 ![oss-3](\imgs\oss-3.png)
 
